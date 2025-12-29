@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 CSE Student <br> Now Learning  C ,JawaScript and Web Developement <br>Interested  In Software Development and off-Campus Opportunities <br>Always Curious to Learn New Technologies <br>
+🔭 CSE Student  <br>🌱 Now Learning  C ,JawaScript and Web Developement <br> 💬Interested  In Software Development and 👯off-Campus Opportunities <br>⚡Always Curious to Learn New Technologies <br>
 
 
 # 💻 Tech Stack:
